@@ -45,7 +45,7 @@
 
 * Fork the repo
 * Copy forked repo link
-* <a href="https://kalanakt.github.io/ToHeroku/app/" target="_blank">Click Here</a> To Countinue.
+* <a href="https://kd2929.github.io/ToHeroku/app/" target="_blank">Click Here</a> To Countinue.
 
 </details>
 
